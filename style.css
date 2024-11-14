@@ -3,12 +3,12 @@
 
 .Certificate2{
     font-size: 20px;
-    text-align: center;
+    item-align: center;
     color: #006c68;
 }
 .Certificate1{
     font-size: 20px;
-    text-align: center;
+    item-align: center;
     color: #006c68;
 }
 .Certificate3{
@@ -23,19 +23,19 @@
 }
 .Certificate5{
     font-size: 20px;
-    text-align: center;
+    item-align: center;
     color: #006c68;
 }
 .Certificate6{
     font-size: 20px;
-    text-align: center;
+    item-align: center;
     color: #006c68;
 }
 .HEAD{
     background-color: #006c68;
     color: white;
     padding: 50px;
-    text-align: left;
+    item-align: left;
     font-size: 25px;
 }
 .picture{
