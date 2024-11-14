@@ -2,11 +2,11 @@
 
 
 .Certificate2{
-    item-align: center;
+    text-align: center;
     color: #006c68;
 }
 .Certificate1{
-    item-align: center;
+    text-align: center;
     color: #006c68;
 }
 .Certificate3{
@@ -14,15 +14,15 @@
     color: #006c68;
 }
 .Certificate4{
-    item-align: center;
+    text-align: center;
     color: #006c68;
 }
 .Certificate5{
-    item-align: center;
+    text-align: center;
     color: #006c68;
 }
 .Certificate6{
-    item-align: center;
+    text-align: center;
     color: #006c68;
 }
 .HEAD{
@@ -86,27 +86,33 @@ body{
 .รายละเอียด1{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 
 .รายละเอียด2{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 .รายละเอียด3{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 .รายละเอียด4{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 .รายละเอียด5{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 .รายละเอียด6{
     font-size: 20px;
     text-align: center;
+    item-align: center;
 }
 .button{
     display:  inline-block;
