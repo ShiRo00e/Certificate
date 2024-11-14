@@ -1,0 +1,147 @@
+
+
+
+.Certificate2{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.Certificate1{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.Certificate3{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+
+}
+.Certificate4{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.Certificate5{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.Certificate6{
+    font-size: 20px;
+    text-align: center;
+    color: #006c68;
+    overflow-x: hidden;
+}
+.HEAD{
+    background-color: #006c68;
+    color: white;
+    padding: 50px;
+    text-align: left;
+    font-size: 25px;
+}
+.picture{
+    max-width: 120px;
+}
+.task-menu li{
+    margin: 0;
+}
+
+
+.task-menu a  {
+    display: block;
+    padding: 17px 25px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: #006c68;
+    border: none; /* ลบขอบของปุ่ม */
+    cursor: pointer; /* เปลี่ยนรูปชี้เมาส์ */
+            
+}
+.task-menu {
+    list-style: none;
+    padding: 10;
+    margin: 0;
+    display: flex;
+    background-color: #006c68;
+}
+    
+
+    
+.task-menu a:hover {
+    background-color: #00524f;
+    
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;  
+}
+.Gifdriving{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.Basic{
+
+    max-width: fit-content;
+    display: flex;
+    align-items: center;
+}
+.รายละเอียด1{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+.รายละเอียด2{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.รายละเอียด3{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.รายละเอียด4{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.รายละเอียด5{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.รายละเอียด6{
+    font-size: 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+.button{
+    display:  inline-block;
+    padding: 20px 100px;
+    background-color: rgb(0, 172, 202);
+    color: aliceblue;
+    text-decoration: none;
+    border-radius:  5px;
+    text-align: center;
+}
+.button:hover{
+    background-color: rgb(0, 158, 158);
+}
+.more{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.end{
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+}
