@@ -18,7 +18,7 @@
 }
 .Certificate4{
     font-size: 20px;
-    text-align: center;
+    item-align: center;
     color: #006c68;
 }
 .Certificate5{
@@ -116,7 +116,7 @@ body{
 }
 .button{
     display:  inline-block;
-    padding: 10px 20px;
+    padding: 20px 40px;
     background-color: rgb(0, 172, 202);
     color: aliceblue;
     text-decoration: none;
@@ -133,6 +133,6 @@ body{
     justify-content: center;
 }
 .font{
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
 }
