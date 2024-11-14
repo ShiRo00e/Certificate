@@ -84,9 +84,11 @@ body{
     align-items: center;
 }
 .รายละเอียด1{
-    font-size: 20px;
-    text-align: center;
-    item-align: center;
+             margin: 0;
+              justify-content: center;
+              align-items: center;
+              min-height: 100vh
+              display: flex;
 }
 
 .รายละเอียด2{
